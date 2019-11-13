@@ -1,0 +1,11 @@
+C:\Users\Purba\source\repos\fountain\bin\Debug\netcoreapp3.0\fountain.exe
+C:\Users\Purba\source\repos\fountain\bin\Debug\netcoreapp3.0\fountain.deps.json
+C:\Users\Purba\source\repos\fountain\bin\Debug\netcoreapp3.0\fountain.runtimeconfig.json
+C:\Users\Purba\source\repos\fountain\bin\Debug\netcoreapp3.0\fountain.runtimeconfig.dev.json
+C:\Users\Purba\source\repos\fountain\bin\Debug\netcoreapp3.0\fountain.dll
+C:\Users\Purba\source\repos\fountain\bin\Debug\netcoreapp3.0\fountain.pdb
+C:\Users\Purba\source\repos\fountain\obj\Debug\netcoreapp3.0\fountain.csprojAssemblyReference.cache
+C:\Users\Purba\source\repos\fountain\obj\Debug\netcoreapp3.0\fountain.AssemblyInfoInputs.cache
+C:\Users\Purba\source\repos\fountain\obj\Debug\netcoreapp3.0\fountain.AssemblyInfo.cs
+C:\Users\Purba\source\repos\fountain\obj\Debug\netcoreapp3.0\fountain.dll
+C:\Users\Purba\source\repos\fountain\obj\Debug\netcoreapp3.0\fountain.pdb

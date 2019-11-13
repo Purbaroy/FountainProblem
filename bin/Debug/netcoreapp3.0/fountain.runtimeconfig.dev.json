@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Purba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Purba\\.nuget\\packages"
+    ]
+  }
+}
